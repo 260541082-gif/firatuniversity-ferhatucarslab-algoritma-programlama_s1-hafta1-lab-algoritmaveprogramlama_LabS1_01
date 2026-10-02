@@ -1,4 +1,17 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:260541082
+AD-SOYAD:BERRAK YAĞMUR ÖKSÜZ
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+ublic class IkiIslem {
+    public static void main(String[] args) {
+        int a = 17;
+        int b = 5;
+        System.out.println(a + " + " + b + " = " + (a + b));
+        System.out.println(a + " - " + b + " = " + (a - b));
+        System.out.println(a + " * " + b + " = " + (a * b));
+        System.out.println(a + " / " + b + " = " + (a / b));
+        System.out.println(a + " % " + b + " = " + (a % b));
+        // buraya hocanın sorduğu soruya uygun yorum yazılacak
+    }
+    
+}
